@@ -29,12 +29,6 @@
 	font-style: italic;
 }
 
-.utensilios {
-	width: 130px;
-	float: left;
-	margin: 0 20px;
-}
-
 .mapa {
 	padding: 3em 0;
 	background: linear-gradient(#FEFEFE, #888888);
